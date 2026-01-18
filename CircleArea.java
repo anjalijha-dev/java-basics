@@ -8,6 +8,7 @@ class CircleArea{
         int diameter = 2 * radius;
         int area = (int)(3.14 * radius * radius);
         System.out.println("Diameter: "+ diameter);
-        System.out.println("The area of the ciecle is: "+ area);
+        System.out.println("The area of the circle is: "+ area);
     }
+
 }
